@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://wdtalha112233-afk.github.io/AFNAN_COUTURE/sitemap.xml
